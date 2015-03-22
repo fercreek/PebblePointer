@@ -9,7 +9,7 @@
 /*                                                                            */
 /*----------------------------------------------------------------------------*/
 
-#define SAMPLING_RATE         ACCEL_SAMPLING_10HZ
+#define SAMPLING_RATE         ACCEL_SAMPLING_25HZ
 #define SAMPLES_PER_CALLBACK  1
 
 #define SYNC_BUFFER_SIZE      48
